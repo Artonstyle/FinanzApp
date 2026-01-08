@@ -1,0 +1,16 @@
+{
+  "short_name": "Finanz2026",
+  "name": "Finanz-Planer 2026",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2454/2454282.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#f0f4f8",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#34495e"
+}
